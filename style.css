@@ -1,12 +1,58 @@
+.img{
+    background-color: #fcc9da ;
+    box: sizing 100px;
+    background-size: 200%;
+    align-items: inherit;
+    margin-left: 25%;
+    padding: 4%;
 
-body{
-    background-color: #f10e59;
-    
+
 }
 h1{
-    font-size: x-large;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    color: aliceblue;
+
 }
-body.img{
-align: items 7px;;
+body{
+    background-color: #e2aad9;
 }
+        
+ 
+   
+    h1 label.logo {
+        color: white;
+        font-size:40px;
+        line-height: 80px;
+        padding: 5px;
+        font-weight: bold;
+        float:left;
+       
+    
+    }
+    h2 label.logo {
+        color: white;
+        font-size:20px;
+        line-height: 80px;
+        font-weight: bold;
+        float:left;
+        padding: 10px;
+    
+    }
+    
+    nav ul{
+        float:right;
+        margin-right: -20px;
+    }
+    nav ul li{
+        display: inline-block;
+        line-height: 80px;
+        margin:0 5px;
+    }
+
+      
+    
+    a.active,a:hover{
+
+        transition: 1s;}
+    
+  
